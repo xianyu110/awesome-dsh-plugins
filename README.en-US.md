@@ -72,15 +72,15 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-14 19:20。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-14 20:13。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 1903 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
-| 2 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 881 | 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交… |
-| 3 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 751 | 一个侧边栏的完整工作台，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理 |
+| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 1907 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
+| 2 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 884 | 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交… |
+| 3 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 755 | 一个侧边栏的完整工作台，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理 |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 574 | Open-source CMA-compatible agent runtime for any model,… |
-| 5 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 330 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
+| 5 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 333 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
 | 6 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 165 | 一站式 DeepSeek Harness 社区发行版：TUI、桌面端与 Web UI 三种形态统一体验，支持分… |
 | 7 | [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 133 | dsh-tianshu-tui — DeepSeek Harness terminal UI +harness… |
 | 8 | [whale-girl](https://github.com/vlln/whale-girl) | 127 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。官方 re… |
