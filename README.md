@@ -72,30 +72,30 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-14 15:58。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-14 17:02。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 1816 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
-| 2 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 849 | 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交… |
-| 3 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 716 | 一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理 |
+| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 1859 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
+| 2 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 865 | 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交… |
+| 3 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 728 | 一个侧边栏的完整工作台，支持三方拓展注册新Tab页面，内置文件渲染编辑/终端/Git/子代理 |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 574 | Open-source CMA-compatible agent runtime for any model,… |
-| 5 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 323 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
-| 6 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 163 | 一站式 DeepSeek Harness 社区发行版：TUI、桌面端与 Web UI 三种形态统一体验，支持分… |
+| 5 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 328 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
+| 6 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 164 | 一站式 DeepSeek Harness 社区发行版：TUI、桌面端与 Web UI 三种形态统一体验，支持分… |
 | 7 | [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 132 | dsh-tianshu-tui — DeepSeek Harness terminal UI +harness… |
-| 8 | [whale-girl](https://github.com/vlln/whale-girl) | 121 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。官方 re… |
-| 9 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 84 | dsh plugin: Chrome sidebar extension that lets DSH oper… |
-| 10 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 72 | GenUI for DeepSeek Harness: interactive UI components r… |
-| 11 | [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) | 65 | OpenPencil design preview and editing plugin for DSH |
-| 12 | [dsh_workflow](https://github.com/icetomoyo/dsh_workflow) | 54 | 把Claude Code的UltraCode模式带给DSH，把 DSH 的一次性多 Agent 调度，升级为可… |
-| 13 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 52 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
+| 8 | [whale-girl](https://github.com/vlln/whale-girl) | 124 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。官方 re… |
+| 9 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 87 | dsh plugin: Chrome sidebar extension that lets DSH oper… |
+| 10 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 73 | GenUI for DeepSeek Harness: interactive UI components r… |
+| 11 | [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) | 66 | OpenPencil design preview and editing plugin for DSH |
+| 12 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 54 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
+| 13 | [dsh_workflow](https://github.com/icetomoyo/dsh_workflow) | 54 | 把Claude Code的UltraCode模式带给DSH，把 DSH 的一次性多 Agent 调度，升级为可… |
 | 14 | [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) | 39 | DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡隐藏批注块（零闪烁）；回复按 Annotati… |
 | 15 | [plugin-registry](https://github.com/vlln/plugin-registry) | 35 | DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-… |
 | 16 | [dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) | 30 | Support dsh runtime on Multica. |
 | 17 | [ui-status-label](https://github.com/alingalingling/ui-status-label) | 29 | 把你鲸鱼娘思考时的 deep diving 自定义成任意你想要的样子 |
 | 18 | [dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) | 27 | 【求⭐】🐋DSH Web UI 全手绘像素鲸鱼伙伴插件：会话标题栏常驻，平时眨眼/偶尔摆尾/动胸鳍，思考运行时… |
 | 19 | [dsh-work](https://github.com/vibeinging/dsh-work) | 25 | Local-first AI workbench for DSH Plugins, combining Age… |
-| 20 | [dsh-openbiliclaw](https://github.com/whiteguo233/dsh-openbiliclaw) | 20 | OpenBiliClaw 是本地运行的跨平台个性化内容推荐 Agent，持续理解你的兴趣并主动找内容。本仓库是… |
+| 20 | [dsh-openbiliclaw](https://github.com/whiteguo233/dsh-openbiliclaw) | 21 | OpenBiliClaw 是本地运行的跨平台个性化内容推荐 Agent，持续理解你的兴趣并主动找内容。本仓库是… |
 
 <!-- AUTO:featured:END -->
 
