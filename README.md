@@ -72,23 +72,23 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-15 09:45。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-15 10:28。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 2286 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
-| 2 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1062 | 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交… |
-| 3 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 932 | 一个侧边栏的完整工作台，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理 |
+| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 2318 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
+| 2 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1075 | 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交… |
+| 3 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 951 | 一个侧边栏的完整工作台，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理 |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 581 | Open-source CMA-compatible agent runtime for any model,… |
-| 5 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 372 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
-| 6 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 178 | 一站式 DeepSeek Harness 社区发行版：TUI、桌面端与 Web UI 三种形态统一体验，支持分… |
-| 7 | [whale-girl](https://github.com/vlln/whale-girl) | 153 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。官方 re… |
-| 8 | [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 143 | dsh-tianshu-tui — DeepSeek Harness terminal UI +harness… |
-| 9 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 122 | dsh plugin: Chrome sidebar extension that lets DSH oper… |
+| 5 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 378 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
+| 6 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 179 | 一站式 DeepSeek Harness 社区发行版：TUI、桌面端与 Web UI 三种形态统一体验，支持分… |
+| 7 | [whale-girl](https://github.com/vlln/whale-girl) | 155 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。官方 re… |
+| 8 | [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 144 | dsh-tianshu-tui — DeepSeek Harness terminal UI +harness… |
+| 9 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 129 | dsh plugin: Chrome sidebar extension that lets DSH oper… |
 | 10 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | 112 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
 | 11 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 88 | GenUI for DeepSeek Harness: interactive UI components r… |
-| 12 | [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) | 73 | OpenPencil design preview and editing plugin for DSH |
-| 13 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 70 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
+| 12 | [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) | 74 | OpenPencil design preview and editing plugin for DSH |
+| 13 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 74 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
 | 14 | [dsh_workflow](https://github.com/icetomoyo/dsh_workflow) | 55 | 把Claude Code的UltraCode模式带给DSH，把 DSH 的一次性多 Agent 调度，升级为可… |
 | 15 | [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) | 46 | DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡隐藏批注块（零闪烁）；回复按 Annotati… |
 | 16 | [plugin-registry](https://github.com/vlln/plugin-registry) | 40 | DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-… |
