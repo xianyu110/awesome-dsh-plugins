@@ -72,13 +72,13 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-16 22:26。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-16 22:56。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 3416 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
-| 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 1625 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 |
-| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1537 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
+| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 3417 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
+| 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 1628 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 |
+| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1538 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 602 | Open-source CMA-compatible agent runtime for any model,… |
 | 5 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 458 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
 | 6 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 215 | 一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。 |
