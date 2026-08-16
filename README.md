@@ -72,11 +72,11 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-16 19:39。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-16 19:55。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 3398 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
+| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 3401 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
 | 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 1620 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 |
 | 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1534 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 600 | Open-source CMA-compatible agent runtime for any model,… |
@@ -86,7 +86,7 @@ graph TB
 | 8 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 198 | dsh plugin: Chrome sidebar extension that lets DSH oper… |
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | 194 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
 | 10 | [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 192 | dsh-tianshu-tui — 是官方 Dsh web端的交互式终端极简风格 UI 插件。以自研ansi为… |
-| 11 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 139 | GenUI for DeepSeek Harness: interactive UI components r… |
+| 11 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 140 | GenUI for DeepSeek Harness: interactive UI components r… |
 | 12 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 119 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
 | 13 | [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) | 99 | The DeepSeek Harness plugin for OpenPencil — preview, i… |
 | 14 | [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) | 63 | DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡隐藏批注块（零闪烁）；回复按 Annotati… |
