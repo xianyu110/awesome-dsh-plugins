@@ -72,27 +72,27 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-16 13:35。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-16 13:57。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 3219 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
-| 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 1521 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 |
-| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1474 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
+| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 3238 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
+| 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 1531 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 |
+| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1476 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 598 | Open-source CMA-compatible agent runtime for any model,… |
 | 5 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 447 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
-| 6 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 211 | 一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。 |
+| 6 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 212 | 一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。 |
 | 7 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | 211 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
 | 8 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 194 | dsh plugin: Chrome sidebar extension that lets DSH oper… |
-| 9 | [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 187 | dsh-tianshu-tui — 是官方 Dsh web端的交互式终端极简风格 UI 插件。以自研ansi为… |
-| 10 | [whale-girl](https://github.com/vlln/whale-girl) | 184 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
-| 11 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 129 | GenUI for DeepSeek Harness: interactive UI components r… |
-| 12 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 107 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
+| 9 | [whale-girl](https://github.com/vlln/whale-girl) | 188 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
+| 10 | [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 187 | dsh-tianshu-tui — 是官方 Dsh web端的交互式终端极简风格 UI 插件。以自研ansi为… |
+| 11 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 131 | GenUI for DeepSeek Harness: interactive UI components r… |
+| 12 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 109 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
 | 13 | [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) | 96 | The DeepSeek Harness plugin for OpenPencil — preview, i… |
 | 14 | [dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) | 62 | 把Claude Code的UltraCode模式带给DSH，把 DSH 的一次性多 Agent 调度，升级为可… |
-| 15 | [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) | 59 | DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡隐藏批注块（零闪烁）；回复按 Annotati… |
+| 15 | [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) | 60 | DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡隐藏批注块（零闪烁）；回复按 Annotati… |
 | 16 | [plugin-registry](https://github.com/vlln/plugin-registry) | 49 | DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-… |
-| 17 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 45 | Cross-agent, local-first persistent memory plugin for D… |
+| 17 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 48 | Cross-agent, local-first persistent memory plugin for D… |
 | 18 | [dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) | 39 | Support dsh runtime on Multica. |
 | 19 | [ui-status-label](https://github.com/alingalingling/ui-status-label) | 36 | 把你鲸鱼娘思考时的 deep diving 自定义成任意你想要的样子 |
 | 20 | [dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent) | 30 | Connect DSH to your database for conversational data an… |
