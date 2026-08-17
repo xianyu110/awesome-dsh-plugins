@@ -72,13 +72,13 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-17 20:36。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-17 21:01。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
 | 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 4087 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
 | 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 1938 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 |
-| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1804 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
+| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1805 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 615 | Open-source CMA-compatible agent runtime for any model,… |
 | 5 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 481 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
 | 6 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | 310 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
@@ -86,7 +86,7 @@ graph TB
 | 8 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 239 | 一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。 |
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | 222 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
 | 10 | [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 202 | 官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简渲染核心（由作者自己的开… |
-| 11 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 182 | GenUI for DeepSeek Harness: interactive UI components r… |
+| 11 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 183 | GenUI for DeepSeek Harness: interactive UI components r… |
 | 12 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 153 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
 | 13 | [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) | 107 | The DeepSeek Harness plugin for OpenPencil — preview, i… |
 | 14 | [dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) | 75 | 把Claude Code的UltraCode模式带给DSH，把 DSH 的一次性多 Agent 调度，升级为可… |
