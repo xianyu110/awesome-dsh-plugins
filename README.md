@@ -72,15 +72,15 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-17 23:32。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-17 23:56。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
 | 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 4095 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
-| 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 1942 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 |
+| 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 1943 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 |
 | 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1811 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 617 | Open-source CMA-compatible agent runtime for any model,… |
-| 5 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 481 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
+| 5 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 482 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
 | 6 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | 311 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
 | 7 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 252 | dsh plugin: Chrome sidebar extension that lets DeepSeek… |
 | 8 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 238 | 一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。 |
@@ -94,8 +94,8 @@ graph TB
 | 16 | [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) | 69 | DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡隐藏批注块（零闪烁）；回复按 Annotati… |
 | 17 | [dsh-memento](https://github.com/PerryLink/dsh-memento) | 57 | Bounded, layered, approval-gated, auditable cross-sessi… |
 | 18 | [plugin-registry](https://github.com/vlln/plugin-registry) | 54 | DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-… |
-| 19 | [dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) | 46 | Support dsh runtime on Multica. |
-| 20 | [dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent) | 40 | Connect DSH to your database for conversational data an… |
+| 19 | [dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent) | 49 | Connect DSH to your database for conversational data an… |
+| 20 | [dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) | 46 | Support dsh runtime on Multica. |
 
 <!-- AUTO:featured:END -->
 
