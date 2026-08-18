@@ -72,7 +72,7 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-18 23:30。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-18 23:56。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
@@ -81,7 +81,7 @@ graph TB
 | 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1968 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 621 | Open-source CMA-compatible agent runtime for any model,… |
 | 5 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 499 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
-| 6 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | 395 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
+| 6 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | 423 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
 | 7 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 299 | dsh plugin: Chrome sidebar extension that lets DeepSeek… |
 | 8 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 250 | 一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。 |
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | 234 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
