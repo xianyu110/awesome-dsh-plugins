@@ -72,21 +72,21 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-18 22:58。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-18 23:30。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 4566 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
+| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 4568 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
 | 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2172 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 ｜ Open si… |
 | 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1968 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 621 | Open-source CMA-compatible agent runtime for any model,… |
 | 5 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 499 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
 | 6 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | 395 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
-| 7 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 298 | dsh plugin: Chrome sidebar extension that lets DeepSeek… |
+| 7 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 299 | dsh plugin: Chrome sidebar extension that lets DeepSeek… |
 | 8 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 250 | 一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。 |
-| 9 | [whale-girl](https://github.com/vlln/whale-girl) | 235 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
+| 9 | [whale-girl](https://github.com/vlln/whale-girl) | 234 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
 | 10 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 223 | GenUI for DeepSeek Harness: interactive UI components r… |
-| 11 | [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 212 | 官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简渲染核心（由作者自己的开… |
+| 11 | [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 213 | 官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简渲染核心（由作者自己的开… |
 | 12 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 177 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
 | 13 | [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) | 119 | The DeepSeek Harness plugin for OpenPencil — preview, i… |
 | 14 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 104 | Three-tier memory control plane for DeepSeek Harness: p… |
