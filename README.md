@@ -72,11 +72,11 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-18 21:56。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-18 22:32。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 4563 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
+| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 4564 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
 | 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2171 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 ｜ Open si… |
 | 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1968 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 621 | Open-source CMA-compatible agent runtime for any model,… |
@@ -87,11 +87,11 @@ graph TB
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | 235 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
 | 10 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 223 | GenUI for DeepSeek Harness: interactive UI components r… |
 | 11 | [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 212 | 官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简渲染核心（由作者自己的开… |
-| 12 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 176 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
+| 12 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 177 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
 | 13 | [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) | 119 | The DeepSeek Harness plugin for OpenPencil — preview, i… |
 | 14 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 104 | Three-tier memory control plane for DeepSeek Harness: p… |
 | 15 | [dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) | 81 | 把Claude Code的UltraCode模式带给DSH，把 DSH 的一次性多 Agent 调度，升级为可… |
-| 16 | [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) | 75 | DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡隐藏批注块（零闪烁）；回复按 Annotati… |
+| 16 | [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) | 76 | DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡隐藏批注块（零闪烁）；回复按 Annotati… |
 | 17 | [dsh-memento](https://github.com/PerryLink/dsh-memento) | 57 | Bounded, layered, approval-gated, auditable cross-sessi… |
 | 18 | [dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent) | 55 | Connect DSH to your database for conversational data an… |
 | 19 | [plugin-registry](https://github.com/vlln/plugin-registry) | 55 | DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-… |
