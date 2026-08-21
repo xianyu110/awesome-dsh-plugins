@@ -72,23 +72,23 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-21 09:02。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-21 09:55。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 5301 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
-| 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2527 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 ｜ Open si… |
-| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 2233 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
+| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 5318 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
+| 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2532 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 ｜ Open si… |
+| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 2239 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 628 | Local-first AI agent runtime with sandboxed sessions, M… |
 | 5 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | 610 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
-| 6 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 522 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
-| 7 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 359 | dsh plugin: Chrome sidebar extension that lets DeepSeek… |
-| 8 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 276 | GenUI for DeepSeek Harness: interactive UI components r… |
+| 6 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 524 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
+| 7 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 361 | dsh plugin: Chrome sidebar extension that lets DeepSeek… |
+| 8 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 279 | GenUI for DeepSeek Harness: interactive UI components r… |
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | 259 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
-| 10 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 257 | 一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。 |
-| 11 | [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 225 | 官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简渲染核心（由作者自己的开… |
-| 12 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 209 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
-| 13 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 147 | Three-tier memory control plane for DeepSeek Harness: p… |
+| 10 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 256 | 一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。 |
+| 11 | [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | 226 | 官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简渲染核心（由作者自己的开… |
+| 12 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 210 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
+| 13 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 151 | Three-tier memory control plane for DeepSeek Harness: p… |
 | 14 | [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) | 135 | The DeepSeek Harness plugin for OpenPencil — preview, i… |
 | 15 | [dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent) | 103 | Connect DSH to your database for conversational data an… |
 | 16 | [dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) | 92 | 把Claude Code的UltraCode模式带给DSH，把 DSH 的一次性多 Agent 调度，升级为可… |
