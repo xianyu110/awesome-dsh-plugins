@@ -72,17 +72,17 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-21 22:34。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-21 22:58。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 5419 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
-| 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2573 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
+| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 5420 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
+| 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2574 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
 | 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 2262 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 628 | Local-first AI agent runtime with sandboxed sessions, M… |
 | 5 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | 615 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
 | 6 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 528 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
-| 7 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 373 | dsh plugin: Chrome sidebar extension that lets DeepSeek… |
+| 7 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 374 | dsh plugin: Chrome sidebar extension that lets DeepSeek… |
 | 8 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 286 | GenUI for DeepSeek Harness: interactive UI components r… |
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | 262 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
 | 10 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 256 | 一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。 |
