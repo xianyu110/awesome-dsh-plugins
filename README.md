@@ -72,13 +72,13 @@ graph TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-22 15:55。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-22 16:30。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 5566 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
-| 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2645 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
-| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 2303 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
+| 1 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 5572 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
+| 2 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2648 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
+| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 2305 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
 | 4 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 629 | Local-first AI agent runtime with sandboxed sessions, M… |
 | 5 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | 616 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
 | 6 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 539 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
